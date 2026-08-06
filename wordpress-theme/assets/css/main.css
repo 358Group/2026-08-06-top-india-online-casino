@@ -740,3 +740,73 @@ button,input{font:inherit}
   .ti-list{gap:1.1rem}
   .ti-jump a{font-size:.88rem;padding:.55rem .9rem}
 }
+
+/* ===== Generated site extras (v5) ===== */
+.site-subnav__inner{display:flex;flex-wrap:wrap;gap:.35rem 1rem;align-items:center}
+.site-subnav__inner a{color:rgba(255,255,255,.82)!important;font-weight:700;font-size:.86rem;text-decoration:none!important}
+.site-subnav__inner a:hover,.site-subnav__inner a.is-active{color:#fff!important;text-decoration:underline!important}
+.site-footer__links{display:flex;flex-wrap:wrap;gap:.75rem 1.25rem;justify-content:center;margin:1rem 0 .25rem}
+.site-footer__links a{color:#c9d4de;font-weight:700;font-size:.9rem;text-decoration:none}
+.site-footer__links a:hover{color:#fff;text-decoration:underline}
+.ti-offer__logo--badge{
+  display:grid;place-items:center;min-height:96px;border-radius:12px;
+  background:linear-gradient(135deg,#1a2433,#2a4f66);color:#fff;font-family:var(--display);
+  font-weight:800;font-size:1.6rem;letter-spacing:.04em;
+}
+.ti-crumb{font-size:.9rem;color:var(--ti-muted);margin:0 0 1rem}
+.ti-crumb a{font-weight:700}
+.ti-prose h1{margin:0 0 1rem;font-family:var(--display);font-size:clamp(1.45rem,3vw,2rem);line-height:1.25}
+.ti-prose h2{margin:2rem 0 .85rem;font-family:var(--display);font-size:clamp(1.15rem,2.2vw,1.45rem)}
+.ti-prose ul{margin:.3rem 0 1.1rem;padding-left:1.2rem}
+.ti-prose li{margin:.35rem 0}
+.ti-prose .ti-card-box{margin:.7rem 0}
+.ti-cta-row{display:flex;flex-wrap:wrap;gap:.7rem;margin:1rem 0 1.5rem}
+.ti-cta-row a{
+  display:inline-flex;align-items:center;justify-content:center;min-height:44px;padding:.65rem 1.1rem;
+  border-radius:999px;font-weight:800;text-decoration:none!important;
+}
+.ti-cta-row .ti-btn-primary{background:var(--ti-btn);color:#fff}
+.ti-cta-row .ti-btn-primary:hover{background:var(--ti-btn-hover);color:#fff}
+.ti-cta-row .ti-btn-ghost{background:#fff;color:var(--ti-ink);border:1px solid var(--ti-line)}
+.ti-intro-list{margin:1rem 0 0;padding-left:1.15rem}
+.ti-intro-list li{margin:.4rem 0}
+
+/* ===== Generated site extras (v5) ===== */
+.site-subnav__inner{display:flex;flex-wrap:wrap;gap:.35rem 1rem;align-items:center}
+.site-subnav__inner a{color:rgba(255,255,255,.82)!important;font-weight:700;font-size:.86rem;text-decoration:none!important}
+.site-subnav__inner a:hover,.site-subnav__inner a.is-active{color:#fff!important;text-decoration:underline!important}
+.site-footer__links{display:flex;flex-wrap:wrap;gap:.75rem 1.25rem;justify-content:center;margin:1rem 0 .25rem}
+.site-footer__links a{color:#c9d4de;font-weight:700;font-size:.9rem;text-decoration:none}
+.site-footer__links a:hover{color:#fff;text-decoration:underline}
+.ti-offer__logo--badge{
+  display:grid;place-items:center;min-height:96px;border-radius:12px;
+  background:linear-gradient(135deg,#1a2433,#2a4f66);color:#fff;font-family:var(--display);
+  font-weight:800;font-size:1.6rem;letter-spacing:.04em;
+}
+.ti-crumb{font-size:.9rem;color:var(--ti-muted);margin:0 0 1rem}
+.ti-crumb a{font-weight:700}
+.ti-prose h1{margin:0 0 1rem;font-family:var(--display);font-size:clamp(1.45rem,3vw,2rem);line-height:1.25}
+.ti-prose h2{margin:2rem 0 .85rem;font-family:var(--display);font-size:clamp(1.15rem,2.2vw,1.45rem)}
+.ti-prose ul{margin:.3rem 0 1.1rem;padding-left:1.2rem}
+.ti-prose li{margin:.35rem 0}
+.ti-prose .ti-card-box{margin:.7rem 0}
+.ti-cta-row{display:flex;flex-wrap:wrap;gap:.7rem;margin:1rem 0 1.5rem}
+.ti-cta-row a{
+  display:inline-flex;align-items:center;justify-content:center;min-height:44px;padding:.65rem 1.1rem;
+  border-radius:999px;font-weight:800;text-decoration:none!important;
+}
+.ti-cta-row .ti-btn-primary{background:var(--ti-btn);color:#fff}
+.ti-cta-row .ti-btn-primary:hover{background:var(--ti-btn-hover);color:#fff}
+.ti-cta-row .ti-btn-ghost{background:#fff;color:var(--ti-ink);border:1px solid var(--ti-line)}
+.ti-brand-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:.75rem;margin:1rem 0 1.5rem}
+.ti-brand-grid a{
+  display:block;padding:.9rem 1rem;background:#fff;border:1px solid var(--ti-line);border-radius:12px;
+  font-weight:800;color:var(--ti-ink)!important;text-decoration:none!important;box-shadow:var(--shadow-xs);
+}
+.ti-brand-grid a:hover{border-color:var(--ti-btn);box-shadow:var(--shadow-sm)}
+.ti-build{font-size:.75rem;color:var(--ti-muted);margin:0 0 1rem}
+.ti-search-empty{
+  margin:1rem 0 0;padding:1rem 1.1rem;border-radius:12px;
+  background:#fff7ed;border:1px solid #fed7aa;color:#9a3412;font-weight:700;
+}
+.ti-offer.is-search-hidden{display:none!important}

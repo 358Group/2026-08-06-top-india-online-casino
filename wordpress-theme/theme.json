@@ -1,1 +1,201 @@
-{"$schema":"https://schemas.wp.org/wp/6.7/theme.json","version":3,"settings":{"appearanceTools":true,"layout":{"contentSize":"760px","wideSize":"1100px"}},"templateParts":[{"name":"header","title":"Header","area":"header"},{"name":"footer","title":"Footer","area":"footer"}],"customTemplates":[{"name":"page-contact","title":"Contact","postTypes":["page"]}]}
+{
+  "$schema": "https://schemas.wp.org/wp/6.7/theme.json",
+  "version": 3,
+  "settings": {
+    "appearanceTools": true,
+    "layout": {
+      "contentSize": "960px",
+      "wideSize": "1180px"
+    },
+    "spacing": {
+      "blockGap": false
+    }
+  },
+  "styles": {
+    "spacing": {
+      "blockGap": "0"
+    }
+  },
+  "templateParts": [
+    {
+      "name": "header",
+      "title": "Header",
+      "area": "header"
+    },
+    {
+      "name": "footer",
+      "title": "Footer",
+      "area": "footer"
+    }
+  ],
+  "customTemplates": [
+    {
+      "name": "page-4rabet",
+      "title": "4RABET",
+      "postTypes": [
+        "page"
+      ]
+    },
+    {
+      "name": "page-1win",
+      "title": "1win",
+      "postTypes": [
+        "page"
+      ]
+    },
+    {
+      "name": "page-parimatch",
+      "title": "PariMatch",
+      "postTypes": [
+        "page"
+      ]
+    },
+    {
+      "name": "page-dafabet",
+      "title": "Dafabet",
+      "postTypes": [
+        "page"
+      ]
+    },
+    {
+      "name": "page-10cric",
+      "title": "10CRIC",
+      "postTypes": [
+        "page"
+      ]
+    },
+    {
+      "name": "page-rajabets",
+      "title": "RajaBets",
+      "postTypes": [
+        "page"
+      ]
+    },
+    {
+      "name": "page-stake",
+      "title": "Stake",
+      "postTypes": [
+        "page"
+      ]
+    },
+    {
+      "name": "page-bet365",
+      "title": "Bet365",
+      "postTypes": [
+        "page"
+      ]
+    },
+    {
+      "name": "page-betway",
+      "title": "Betway",
+      "postTypes": [
+        "page"
+      ]
+    },
+    {
+      "name": "page-lotus-365",
+      "title": "Lotus 365",
+      "postTypes": [
+        "page"
+      ]
+    },
+    {
+      "name": "page-22bet",
+      "title": "22Bet",
+      "postTypes": [
+        "page"
+      ]
+    },
+    {
+      "name": "page-betvibe",
+      "title": "BetVibe",
+      "postTypes": [
+        "page"
+      ]
+    },
+    {
+      "name": "page-1xbet",
+      "title": "1xBet",
+      "postTypes": [
+        "page"
+      ]
+    },
+    {
+      "name": "page-20bet",
+      "title": "20Bet",
+      "postTypes": [
+        "page"
+      ]
+    },
+    {
+      "name": "page-indibet",
+      "title": "IndiBet",
+      "postTypes": [
+        "page"
+      ]
+    },
+    {
+      "name": "page-crorebet",
+      "title": "Crorebet",
+      "postTypes": [
+        "page"
+      ]
+    },
+    {
+      "name": "page-melbet",
+      "title": "MelBet",
+      "postTypes": [
+        "page"
+      ]
+    },
+    {
+      "name": "page-96-com",
+      "title": "96.com",
+      "postTypes": [
+        "page"
+      ]
+    },
+    {
+      "name": "page-mostbet",
+      "title": "MostBet",
+      "postTypes": [
+        "page"
+      ]
+    },
+    {
+      "name": "page-megapari",
+      "title": "MegaPari",
+      "postTypes": [
+        "page"
+      ]
+    },
+    {
+      "name": "page-privacy-policy",
+      "title": "Privacy Policy",
+      "postTypes": [
+        "page"
+      ]
+    },
+    {
+      "name": "page-disclaimer",
+      "title": "Disclaimer",
+      "postTypes": [
+        "page"
+      ]
+    },
+    {
+      "name": "page-terms-and-conditions",
+      "title": "Terms and Conditions",
+      "postTypes": [
+        "page"
+      ]
+    },
+    {
+      "name": "page-contact-us",
+      "title": "Contact Us",
+      "postTypes": [
+        "page"
+      ]
+    }
+  ]
+}
