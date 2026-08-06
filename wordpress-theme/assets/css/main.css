@@ -547,23 +547,27 @@ button,input{font:inherit}
 }
 .ti-faq-q{
   display:flex;
-  align-items:flex-start;
-  gap:.9rem;
-  margin:0 0 .65rem;
+  align-items:center;
+  gap:.75rem;
+  margin:0 0 .85rem;
 }
 .ti-faq-icon{
-  width:30px;
-  height:30px;
+  width:26px;
+  height:26px;
   border-radius:50%;
-  background:linear-gradient(180deg,#9fdcf6,#7ec8ea);
+  background:linear-gradient(180deg,#7ecff0 0%,#5bc0de 55%,#49b4d6 100%);
+  border:1px solid #3aa4c9;
   color:#fff;
-  display:inline-grid;
-  place-items:center;
-  font-weight:800;
-  font-size:.95rem;
-  flex:0 0 auto;
-  margin-top:.05rem;
-  box-shadow:0 2px 6px rgba(53,180,223,.35);
+  display:inline-flex;
+  align-items:center;
+  justify-content:center;
+  font-family:Arial, Helvetica, sans-serif;
+  font-weight:700;
+  font-size:15px;
+  line-height:1;
+  flex:0 0 26px;
+  box-shadow:none;
+  text-shadow:0 1px 0 rgba(0,0,0,.08);
 }
 .ti-faq-q h3{
   margin:0;
@@ -575,9 +579,13 @@ button,input{font:inherit}
   color:var(--ti-ink);
 }
 .ti-faq-item p{
-  margin:0 0 0 2.85rem;
+  margin:0;
   color:#3f4650;
   line-height:1.7;
+  background:#f7f8fa;
+  border:1px solid #e5e7eb;
+  border-radius:10px;
+  padding:.95rem 1.1rem;
 }
 
 /* Expert */

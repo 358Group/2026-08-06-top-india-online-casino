@@ -1,6 +1,6 @@
 <?php
 if ( ! defined( 'ABSPATH' ) ) { exit; }
-define( 'UB_VER', '4.1.1' );
+define( 'UB_VER', '4.1.2' );
 function ub_setup() {
 	add_theme_support( 'wp-block-styles' );
 	add_theme_support( 'editor-styles' );
